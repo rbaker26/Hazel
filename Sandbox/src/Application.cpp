@@ -1,5 +1,7 @@
 namespace Hazel {
+
 	__declspec(dllimport) void Print();
+
 }
 
 #include <iostream>
